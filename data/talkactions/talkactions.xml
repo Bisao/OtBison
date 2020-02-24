@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talkactions>
+
+<talkaction words="!autoloot" separator=" " script="player/autoloot.lua"/>
+<talkaction words="!add" separator=" " script="player/add_autoloot.lua" />
+
+</talkactions>
